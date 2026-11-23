@@ -1,0 +1,34 @@
+Analiza danych postaci RPG z wykorzystaniem AI
+1. Wyniki otrzymane w Pandas
+Średni atak wszystkich postaci: 83,33.
+Największa liczba wygranych walk: 8.
+Średni atak Wojowników: 70.
+Średni atak Magów: 95.
+Średni atak Łuczników: 85.
+Liczba postaci, które wygrały minimum 7 walk: 5.
+Po zmianie ataku Maga B ze 100 na 90 średni atak Magów wynosi 91,67.
+2. Pytanie zadane AI
+
+Która klasa postaci wydaje się najsilniejsza na podstawie przedstawionych danych? Uzasadnij swoją odpowiedź, uwzględniając atak, obronę i liczbę wygranych walk. Zaproponuj jedną zmianę statystyk, która mogłaby poprawić balans gry.
+
+3. Odpowiedź AI
+
+Na podstawie przedstawionych danych można stwierdzić, że Magowie mają największy potencjał ofensywny. Ich średni atak wynosi 95, czyli więcej niż u Wojowników (70) i Łuczników (85).
+
+Magowie mają jednak bardzo niską obronę, wynoszącą średnio 35. Wojownicy mają najwyższą średnią obronę – około 90, a Łucznicy około 50.
+
+Pod względem wygranych każda klasa osiąga średnio podobne wyniki:
+
+Wojownicy: 6 wygranych.
+Magowie: 7 wygranych.
+Łucznicy: 7 wygranych.
+
+Magowie wydają się najsilniejsi pod względem ataku, ale nie oznacza to, że są najlepsi w każdej sytuacji. Wojownicy są bardziej wytrzymali, a Łucznicy mają statystyki pośrednie.
+
+Propozycja zmiany balansu:
+
+Można zwiększyć obronę Magów z 35 do 45 punktów średnio. Dzięki temu będą trochę bardziej odporni na ataki przeciwników, ale nadal będą mieli niższą obronę niż Wojownicy. Pozwoli to zachować różnice pomiędzy klasami i poprawić balans gry.
+
+4. Mój własny wniosek
+
+Zgadzam się z propozycją AI, ponieważ Magowie mają bardzo wysoki atak, ale ich obrona jest zdecydowanie za niska. Zwiększenie obrony sprawiłoby, że ta klasa byłaby bardziej zrównoważona i ciekawsza podczas rozgrywki. Uważam jednak, że Wojownicy powinni nadal mieć najwyższą obronę, ponieważ jest to ich główna zaleta.
